@@ -11,5 +11,11 @@ Recommended Books
 
 Interesting Github Projects
 * https://github.com/docker/docker-bench-security 
+* https://github.com/jfrazelle/binctr
+	* Fully static, unprivileged, self-contained, containers as executable binaries.
+* [Datacenter Operating System, DC/OS] (https://github.com/dcos)
 
 
+Interesting Docker Contributors
+* https://github.com/jfrazelle
+	* https://blog.jessfraz.com/
