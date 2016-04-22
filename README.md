@@ -3,7 +3,7 @@
 References
 * http://www.docker.com/ 
 * https://github.com/docker 
-
+* https://hub.docker.com/explore/
 
 Recommended Books
 * [Docker Containers, Build and Deploy with Kubernetes, Flannel, Cockpit, and Atomic] (http://www.amazon.com/Docker-Containers-Content-Update-Program/dp/013413656X)
@@ -15,6 +15,7 @@ Interesting Github Projects
 * https://github.com/jfrazelle/binctr
 	* Fully static, unprivileged, self-contained, containers as executable binaries.
 * [Datacenter Operating System, DC/OS] (https://github.com/dcos)
+* https://github.com/samalba/dockerclient 
 
 
 Interesting Docker Contributors
