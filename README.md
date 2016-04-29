@@ -16,6 +16,7 @@ Interesting Github Projects
 	* Fully static, unprivileged, self-contained, containers as executable binaries.
 * [Datacenter Operating System, DC/OS] (https://github.com/dcos)
 * https://github.com/samalba/dockerclient 
+* https://github.com/Microsoft/Docker-PowerShell/
 
 
 Interesting Docker Contributors
