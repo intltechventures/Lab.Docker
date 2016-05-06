@@ -38,7 +38,7 @@ TroubleShooting
 * Docker on Windows 10/
 	* ```Docker Quickstart Terminal``` shortcut doesn’t work – the shortcut doesn’t run the start.sh script in a Bash shell.
 	* FIX: Aassociate the .sh file extension with the ```<Git home>/bin/sh.exe``` program or some other Bash shell emulator for Windows.
-
+	* Or, modify the target on the shortcust like this: ```C:\{your install path}\Git\bin\sh.exe --login -i "C:\{your install path}\DockerToolbox\start.sh"```
 
 Tips
 * Your Docker VM is listening on port 22, so you can directly connect to your running VM via SSH (using username: docker, password: tcuser).
