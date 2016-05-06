@@ -4,6 +4,7 @@ References
 * http://www.docker.com/ 
 * https://github.com/docker 
 * https://hub.docker.com/explore/
+* https://docs.docker.com/windows/
 
 Recommended Books
 * [Docker Containers, Build and Deploy with Kubernetes, Flannel, Cockpit, and Atomic] (http://www.amazon.com/Docker-Containers-Content-Update-Program/dp/013413656X)
