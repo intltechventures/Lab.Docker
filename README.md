@@ -5,6 +5,8 @@ References
 * https://github.com/docker 
 * https://hub.docker.com/explore/
 * https://docs.docker.com/windows/
+* https://docs.docker.com/engine/userguide/intro/
+
 
 Recommended Books
 * [Docker Containers, Build and Deploy with Kubernetes, Flannel, Cockpit, and Atomic] (http://www.amazon.com/Docker-Containers-Content-Update-Program/dp/013413656X)
@@ -33,9 +35,9 @@ Helpful Articles
 
 
 TroubleShooting
-* Docker on Windows 10
-	* https://developer.ibm.com/bluemix/2015/04/16/installing-docker-windows-fixes-common-problems/
-	* Boot2Docker Start shortcut doesn’t work – the Boot2Docker Start shortcut doesn’t run the start.sh script in a Bash shell, associate the .sh file extension with the ```<Git home>/bin/sh.exe``` program or some other Bash shell emulator for Windows.
+* Docker on Windows 10/
+	* ```Docker Quickstart Terminal``` shortcut doesn’t work – the shortcut doesn’t run the start.sh script in a Bash shell.
+	* FIX: Aassociate the .sh file extension with the ```<Git home>/bin/sh.exe``` program or some other Bash shell emulator for Windows.
 
 
 Tips
