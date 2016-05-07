@@ -44,4 +44,7 @@ TroubleShooting
 Tips
 * Your Docker VM is listening on port 22, so you can directly connect to your running VM via SSH (using username: docker, password: tcuser).
 * To pass a long-running command to test a docker image...(assumes your image is named 'fedora')
-	* ```docker run -d fedora /bin/sh -c "while true; do echo hello world; sleep 1; done"```
+	* ```docker run -d fedora /bin/sh -c "while true; do echo hello world; sleep 1; done"``
+	
+	
+`
