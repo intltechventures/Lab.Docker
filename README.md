@@ -33,6 +33,10 @@ Interesting Docker Contributors
 	* http://allingeek.com/
 
 
+Deployment Tooling
+* https://github.com/spotify/docker-maven-plugin
+
+
 Helpful Articles
 * http://blog.pavelsklenar.com/5-useful-docker-tip-and-tricks-on-windows/
 
