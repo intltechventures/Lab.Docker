@@ -25,6 +25,8 @@ Interesting Github Projects
 * https://github.com/docker-training/webapp
 * https://github.com/docker-training/staticweb
 * https://github.com/docker-training/docker-fundamentals-image
+* https://github.com/docker/swarmkit
+
 
 Interesting Docker Contributors
 * https://github.com/jfrazelle
