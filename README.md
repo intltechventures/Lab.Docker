@@ -9,6 +9,10 @@ References
 * https://github.com/docker-training
 
 
+Docker Hub Images
+* https://hub.docker.com/r/_/amazonlinux/
+
+
 Recommended Books
 * [Docker Containers, Build and Deploy with Kubernetes, Flannel, Cockpit, and Atomic] (http://www.amazon.com/Docker-Containers-Content-Update-Program/dp/013413656X)
 * [Docker In Action] (https://www.manning.com/books/docker-in-action) 
