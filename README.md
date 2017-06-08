@@ -12,10 +12,10 @@ References
 Docker Hub Images
 * https://hub.docker.com/r/_/amazonlinux/
 
-
+  
 Recommended Books
-* [Docker Containers, Build and Deploy with Kubernetes, Flannel, Cockpit, and Atomic] (http://www.amazon.com/Docker-Containers-Content-Update-Program/dp/013413656X)
-* [Docker In Action] (https://www.manning.com/books/docker-in-action) 
+* [Docker Containers, Build and Deploy with Kubernetes, Flannel, Cockpit, and Atomic](http://www.amazon.com/Docker-Containers-Content-Update-Program/dp/013413656X)
+* [Docker In Action](https://www.manning.com/books/docker-in-action) 
 	* https://github.com/dockerinaction 
     * https://hub.docker.com/u/dockerinaction/
 
@@ -26,7 +26,7 @@ Interesting Github Projects
 * https://github.com/docker/docker-bench-security 
 * https://github.com/jfrazelle/binctr
 	* Fully static, unprivileged, self-contained, containers as executable binaries.
-* [Datacenter Operating System, DC/OS] (https://github.com/dcos)
+* [Datacenter Operating System, DC/OS](https://github.com/dcos)
 * https://github.com/samalba/dockerclient 
 * https://github.com/Microsoft/Docker-PowerShell/
 * https://github.com/docker-training/webapp
@@ -76,6 +76,8 @@ Tips
 
 
 Interesting Articles
+* 2017
+  * https://codefresh.io/blog/java_docker_pipeline
 * https://medium.com/@adriaandejonge/moving-from-docker-to-rkt-310dc9aec938#.hr7dfpon2
 * https://blog.docker.com/2016/09/build-your-first-docker-windows-server-container/
 * https://www.infoq.com/presentations/eclipse-docker-vagrant
