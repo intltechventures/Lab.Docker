@@ -19,5 +19,7 @@ Docker Container commands
 
 Explore attributes of a container
 * ```ocker inspect <container id>```
-* ```docker inspect <container id> | grep "IPAddress"```
 
+Find the IP Address of a container
+* ```docker inspect <container id> | grep "IPAddress"```
+* ```docker exec stupefied_babbage cat /etc/hosts```
