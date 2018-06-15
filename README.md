@@ -76,6 +76,8 @@ Tips
 
 
 Interesting Articles
+* 2018
+  * https://dev.to/ykyuen/how-to-setup-log-rotation-for-docker-container-4alp
 * 2017
   * https://codefresh.io/blog/java_docker_pipeline
 * https://medium.com/@adriaandejonge/moving-from-docker-to-rkt-310dc9aec938#.hr7dfpon2
