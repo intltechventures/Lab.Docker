@@ -8,6 +8,10 @@ References
 * https://docs.docker.com/engine/userguide/intro/
 * https://github.com/docker-training
 
+Moby Project - a collaborative project for the container ecosystem to assemble container-based systems 
+* https://mobyproject.org/
+* https://github.com/moby/moby
+
 
 Docker Hub Images
 * https://hub.docker.com/r/_/amazonlinux/
