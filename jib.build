@@ -1,5 +1,6 @@
 # https://jaxenter.com/jib-java-containerization-146647.html
 # https://github.com/GoogleContainerTools/jib
+# https://github.com/GoogleContainerTools/jib/wiki/Frequently-Asked-Questions-(FAQ)
 # Builds to a container image registry.
 # mvn compile jib:build
 # Builds to a Docker daemon.
