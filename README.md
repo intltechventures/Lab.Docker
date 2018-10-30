@@ -13,6 +13,14 @@ Moby Project - a collaborative project for the container ecosystem to assemble c
 * https://github.com/moby/moby
 
 
+Tutorials:
+* https://training.play-with-docker.com/
+  * https://github.com/play-with-docker/play-with-docker.github.io
+  * https://github.com/play-with-docker
+* https://github.com/docker/labs/
+
+
+
 Docker Hub Images
 * https://hub.docker.com/r/_/amazonlinux/
 
@@ -37,6 +45,8 @@ Interesting Github Projects
 * https://github.com/docker-training/staticweb
 * https://github.com/docker-training/docker-fundamentals-image
 * https://github.com/docker/swarmkit
+* https://github.com/opentable/sous 
+  * "Sous is a tool for building, testing, and deploying applications, using Docker, Mesos, and Singularity."
 
 
 Interesting Docker Contributors
